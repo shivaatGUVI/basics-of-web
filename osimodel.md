@@ -1,4 +1,4 @@
-# What is Open Systems Inrterconnection (OSI) Model
+# What is Open Systems Interconnection (OSI) Model
 
 [Visual representation](https://excalidraw.com/#json=Trh_i_rJE47NntjFH9ZEU,sJiRJnJRX5wXbWA7WcAUcg)
 
